@@ -1,6 +1,6 @@
 # Starlink Map
 
-[![Starlink Map Demo](https://img.youtube.com/vi/3nO0649Ktxc/hqdefault.jpg)](https://www.youtube.com/watch?v=3nO0649Ktxc)
+[![Starlink Map Demo](https://img.youtube.com/vi/y3FMMHUy5OE/hqdefault.jpg)](https://www.youtube.com/watch?v=y3FMMHUy5OE)
 
 _See what the map looks like in the video above!_
 
