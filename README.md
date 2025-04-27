@@ -33,6 +33,8 @@ This project displays a map of all Starlink satellites, along with your currentl
 3.  **Access the map:**
     Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
 
+    _Note: It might take up to 30 seconds for satellite and connection data to populate after the container starts._
+
 ## Credits
 
 This project utilizes data and code from the following open-source repositories:

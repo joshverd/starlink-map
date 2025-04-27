@@ -8,8 +8,8 @@ import type { Metadata } from 'next';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'App Router Template',
-  description: 'App Router Template',
+  title: 'Starlink Map',
+  description: '',
 };
 
 export default function RootLayout({
