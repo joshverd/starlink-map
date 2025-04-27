@@ -1,0 +1,20 @@
+@import './z-indices.scss';
+
+.main {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-color: #121212; // Dark background for dark mode
+}
+
+// Added styles for the map container
+.mapContainer {
+  background-color: #2a2a2a; // A dark gray, adjust to match tiles if needed
+  border: 1px solid #444; // Optional: subtle border
+
+  // Target the actual Leaflet map container within our wrapper
+  // Use :global as Leaflet adds its own classes outside the module scope
+  :global(.leaflet-container) {
+    background-color: #2a2a2a !important; // Ensure Leaflet's background is also dark
+  }
+}
